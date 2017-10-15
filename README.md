@@ -1,6 +1,6 @@
 # Hi
 
-This is a collection of code I've written for coding competitions. I haven't touched up the code at all from the time of competition—as such, some of it's a bit, ah, messy (and quite fun). Coding competitions generally don't like contestants redistributing the working of their problems, so I haven't included them here.
+This is a collection of code I've written for coding competitions. I haven't touched up the code at all from the time of competition—as such, some of it's a bit, ah, messy (and quite fun). Not all of is robust, and most of it is pretty inefficient (unless it *needed* to be efficient). Coding competitions generally don't like contestants redistributing the working of their problems, so I haven't included them here.
 
 Here's a descriptions of the contests I've been in, and how my team (or just myself) did:
 
