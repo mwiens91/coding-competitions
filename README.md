@@ -2,7 +2,7 @@
 
 This is a collection of code I've written for coding competitions. I haven't touched up the code at all from the time of competition—as such, some of it's a bit, ah, messy (and quite fun). Not all of it is robust, and most of it is pretty inefficient (unless it *needed* to be efficient). Coding competitions generally don't like contestants redistributing the wording of their problems, so I haven't included the wordings here.
 
-Here's a descriptions of the contests I've been in, and how my team (or just myself) did:
+Here are descriptions of the contests I've been in, and how my teams (or just myself) did:
 
 ### 2017-10-13 IEEEXtreme 11.0
 + length: 24 hours
