@@ -12,7 +12,7 @@ Here are descriptions of the contests I've been in, and how my teams (or just my
 
 ### 2017-10-03 Google Games SFU
 + length: 1.5 hours
-+ team: myself, Branko Bajcetic (@bbajcetic), Francis Chui, Avery Jones, Tyler Trinh (@bvtrinh)
++ team: myself, Branko Bajcetic (@bbajcetic), Francis Chui (@fchui), Avery Jones, Tyler Trinh (@bvtrinh)
 + placement: ~5/12
 + url: ?
 
