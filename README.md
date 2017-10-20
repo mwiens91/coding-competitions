@@ -12,12 +12,12 @@ Here are descriptions of the contests I've been in, and how my teams (or just my
 
 ### 2017-10-03 Google Games SFU
 + length: 1.5 hours
-+ team: myself, Branko Bajcetic (@bbajcetic), Francis Chui (@fchui), Avery Jones, Tyler Trinh (@bvtrinh)
++ team: myself, Branko Bajcetic (@bbajcetic), Francis Chui (@fchui), Avery Jones (@aj604), Tyler Trinh (@bvtrinh)
 + placement: ~5/12
 + url: ?
 
 ### 2017-09-21 Microsoft College Code Competition
 + length: 2.5 hours
-+ team: myself, Branko Bajcetic (@bbajcetic), Avery Jones
++ team: myself, Branko Bajcetic (@bbajcetic), Avery Jones (@aj604)
 + placement: ~9/60
 + url: https://msft3c.com/
