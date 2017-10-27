@@ -7,7 +7,7 @@ Here are descriptions of the contests I've been in, and how my teams (or just my
 ### 2017-10-13 IEEEXtreme 11.0
 + length: 24 hours
 + team: myself, Branko Bajcetic (@bbajcetic), Tyler Trinh (@bvtrinh)
-+ placement: 403/3350
++ placement: 395/3342
 + url: http://ieeextreme.org/
 
 ### 2017-10-03 Google Games SFU
