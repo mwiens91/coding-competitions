@@ -4,6 +4,12 @@ This is a collection of code I've written for coding competitions. I haven't tou
 
 Here are descriptions of the contests I've been in, and how my teams (or just myself) did:
 
+### 2017-12-14 HackerRank World CodeSprint 12
++ length: 48 hours
++ team: just me
++ placement: 595/7109
++ url: https://www.hackerrank.com/world-codesprint-12
+
 ### 2017-10-13 IEEEXtreme 11.0
 + length: 24 hours
 + team: myself, Branko Bajcetic (@bbajcetic), Tyler Trinh (@bvtrinh)
