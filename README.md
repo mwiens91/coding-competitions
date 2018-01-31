@@ -7,7 +7,7 @@ Here are descriptions of the contests I've been in, and how my teams (or just my
 ### 2017-12-14 HackerRank World CodeSprint 12
 + length: 48 hours
 + team: just me
-+ placement: 595/7109
++ placement: 584/7046
 + url: https://www.hackerrank.com/world-codesprint-12
 
 ### 2017-10-13 IEEEXtreme 11.0
