@@ -7,7 +7,7 @@ Here are descriptions of the contests I've been in, and how my teams (or just my
 ### 2018-02-04 HackerRank Week of Code 36
 + length: 1 week
 + team: just me
-+ placement: 879/12780
++ placement: 841/12763
 + url: https://www.hackerrank.com/w36
 
 ### 2018-02-02 HackerRank HourRank 26
