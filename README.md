@@ -7,7 +7,7 @@ Here are descriptions of the contests I've been in, and how my teams (or just my
 ### 2018-02-23 HackerRank University CodeSprint 4
 + length: 48 hours
 + team: just me
-+ placement: 300/5415
++ placement: 294/5405
 + url: https://www.hackerrank.com/university-codesprint-4
 
 ### 2018-02-04 HackerRank Week of Code 36
