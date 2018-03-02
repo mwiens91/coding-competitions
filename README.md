@@ -4,6 +4,12 @@ This is a collection of code I've written for coding competitions. I haven't tou
 
 Here are descriptions of the contests I've been in, and how my teams (or just myself) did:
 
+### 2018-03-02 HackerRank 101 Hack 53
++ length: 3 hours
++ team: just me
++ placement: 402/1823
++ url: https://www.hackerrank.com/101hack53
+
 ### 2018-02-23 HackerRank University CodeSprint 4
 + length: 48 hours
 + team: just me
