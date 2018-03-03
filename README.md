@@ -49,5 +49,5 @@ Here are descriptions of the contests I've been in, and how my teams (or just my
 ### 2017-09-21 Microsoft College Code Competition
 + length: 2.5 hours
 + team: myself, Branko Bajcetic (@bbajcetic), Avery Jones (@aj604)
-+ placement: ~9/60
++ placement: ~9/70
 + url: https://msft3c.com/
