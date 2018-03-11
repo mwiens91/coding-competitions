@@ -7,19 +7,19 @@ Here are descriptions of the contests I've been in, and how my teams (or just my
 ### 2018-03-02 HackerRank 101 Hack 53
 + length: 3 hours
 + team: just me
-+ placement: 402/1823
++ placement: 402/1822
 + url: https://www.hackerrank.com/101hack53
 
 ### 2018-02-23 HackerRank University CodeSprint 4
 + length: 48 hours
 + team: just me
-+ placement: 294/5404
++ placement: 294/5403
 + url: https://www.hackerrank.com/university-codesprint-4
 
 ### 2018-02-04 HackerRank Week of Code 36
 + length: 1 week
 + team: just me
-+ placement: 841/12758
++ placement: 841/12755
 + url: https://www.hackerrank.com/w36
 
 ### 2018-02-02 HackerRank HourRank 26
@@ -31,7 +31,7 @@ Here are descriptions of the contests I've been in, and how my teams (or just my
 ### 2017-12-14 HackerRank World CodeSprint 12
 + length: 48 hours
 + team: just me
-+ placement: 584/7043
++ placement: 584/7041
 + url: https://www.hackerrank.com/world-codesprint-12
 
 ### 2017-10-13 IEEEXtreme 11.0
