@@ -4,6 +4,13 @@ This is a collection of code I've written for coding competitions. I haven't tou
 
 Here are descriptions of the contests I've been in, and how my teams (or just myself) did:
 
+### 2018-03-31 SFU Winter Programming Contest
++ length: 3 hours
++ team: myself, Branko Bajcetic (@bbajcetic), Avery Jones (@aj604)
++ placement: 16/39
++ url: http://www.cs.ubc.ca/~acm-web/sfu-wpc-18/index.php (this link
+  might die)
+
 ### 2018-03-02 HackerRank 101 Hack 53
 + length: 3 hours
 + team: just me
