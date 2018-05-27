@@ -4,6 +4,12 @@ This is a collection of code I've written for coding competitions. I haven't tou
 
 Here are descriptions of the contests I've been in, and how my teams (or just myself) did:
 
+### 2018-05-26 HackerRank World CodeSprint 13
++ length: 48 hours
++ team: just me
++ placement: 448/4163
++ url: https://www.hackerrank.com/world-codesprint-13
+
 ### 2018-03-31 SFU Winter Programming Contest
 + length: 3 hours
 + team: myself, Branko Bajcetic (@bbajcetic), Avery Jones (@aj604)
