@@ -7,7 +7,7 @@ Here are descriptions of the contests I've been in, and how my teams (or just my
 ### 2018-05-26 HackerRank World CodeSprint 13
 + length: 48 hours
 + team: just me
-+ placement: 448/4163
++ placement: 440/4126
 + url: https://www.hackerrank.com/world-codesprint-13
 
 ### 2018-03-31 SFU Winter Programming Contest
