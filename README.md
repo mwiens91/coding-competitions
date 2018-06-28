@@ -7,7 +7,7 @@ Here are descriptions of the contests I've been in, and how my teams (or just my
 ### 2018-06-18 HackerRank Week of Code 38
 + length: 1 week
 + team: just me
-+ placement: 559/6758
++ placement: 547/6731
 + url: https://www.hackerrank.com/w38
 
 ### 2018-05-26 HackerRank World CodeSprint 13
