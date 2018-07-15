@@ -18,7 +18,7 @@ Here are descriptions of the contests I've been in, and how my teams (or just my
 
 ### 2018-03-31 SFU Winter Programming Contest
 + length: 3 hours
-+ team: myself, Branko Bajcetic (@bbajcetic), Avery Jones (@aj604)
++ team: myself, [Branko Bajcetic](https://github.com/bbajcetic), [Avery Jones](https://github.com/aj604)
 + placement: 16/39
 + url: http://www.cs.ubc.ca/~acm-web/sfu-wpc-18/index.php (this link
   might die)
@@ -55,18 +55,18 @@ Here are descriptions of the contests I've been in, and how my teams (or just my
 
 ### 2017-10-13 IEEEXtreme 11.0
 + length: 24 hours
-+ team: myself, Branko Bajcetic (@bbajcetic), Tyler Trinh (@bvtrinh)
++ team: myself, [Branko Bajcetic](https://github.com/bbajcetic), [Tyler Trinh](https://github.com/bvtrinh)
 + placement: 395/3342
 + url: http://ieeextreme.org/
 
 ### 2017-10-03 Google Games SFU
 + length: 1.5 hours
-+ team: myself, Branko Bajcetic (@bbajcetic), Francis Chui (@fchui), Avery Jones (@aj604), Tyler Trinh (@bvtrinh)
++ team: myself, [Branko Bajcetic](https://github.com/bbajcetic), [Francis Chui](https://github.com/fchui), [Avery Jones](https://github.com/aj604), [Tyler Trinh](https://github.com/bvtrinh)
 + placement: ~5/12
 + url: ?
 
 ### 2017-09-21 Microsoft College Code Competition
 + length: 2.5 hours
-+ team: myself, Branko Bajcetic (@bbajcetic), Avery Jones (@aj604)
++ team: myself, [Branko Bajcetic](https://github.com/bbajcetic), [Avery Jones](https://github.com/aj604)
 + placement: ~9/70
 + url: https://msft3c.com/
