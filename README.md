@@ -1,4 +1,4 @@
-# Hi
+# coding-competitions
 
 This is a collection of code I've written for coding competitions. I haven't touched up the code at all from the time of competition—as such, some of it's a bit, ah, messy (and quite fun). Not all of it is robust, and some of it is pretty inefficient (though with each competition I'm getting better at this). Coding competitions don't always like contestants redistributing the wordings of their problems, so I haven't included the wordings here.
 
