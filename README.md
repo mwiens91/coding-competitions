@@ -7,7 +7,7 @@ Here are descriptions of the contests I've been in, and how my teams (or just my
 ### 2018-08-17 HackerRank Moody's Analytics 2018 University CodeSprint
 + length: 48 hours
 + team: just me
-+ placement: 180/2036
++ placement: 176/2019
 + url: https://www.hackerrank.com/moodys-analytics-2018-university-codesprint
 
 ### 2018-06-18 HackerRank Week of Code 38
