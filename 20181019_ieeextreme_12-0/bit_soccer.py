@@ -4,11 +4,6 @@ from bisect import bisect_left
 import sys
 
 
-def find_number_less_than_equal_to(a, num):
-    pos = bisect_left(a, num)
-    return pos
-
-
 # Read lines from stdin
 lines = [line.strip() for line in sys.stdin]
 
