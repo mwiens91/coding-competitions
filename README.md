@@ -88,3 +88,8 @@ Here are descriptions of the contests I've been in, and how my teams (or just my
 + team: myself, [Branko Bajcetic](https://github.com/bbajcetic), [Avery Jones](https://github.com/aj604)
 + placement: ~9/70
 + URL: https://msft3c.com/
+
+## See also
+
++ [practice-problems](https://github.com/mwiens91/practice-problems),
+  which contains code I've written for practice/learning
