@@ -7,7 +7,7 @@ Here are descriptions of the contests I've been in, and how my teams (or just my
 ### 2018-10-19 IEEEXtreme 12.0
 + length: 24 hours
 + team: myself, [Branko Bajcetic](https://github.com/bbajcetic), [Richard Godard](https://github.com/vincentrg)
-+ placement: 294/4049
++ placement: 266/4019
 + URL: http://ieeextreme.org/
 
 ### 2018-09-08 HackerRank University CodeSprint 5
