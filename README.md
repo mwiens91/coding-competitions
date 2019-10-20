@@ -4,6 +4,12 @@ This is a collection of code I've written for coding competitions. I haven't tou
 
 Here are descriptions of the contests I've been in, and how my teams (or just myself) did:
 
+### 2019-10-18 IEEEXtreme 13.0
++ length: 24 hours
++ team: myself, [Branko Bajcetic](https://github.com/bbajcetic), Zen Yurkovich
++ placement: 280/4103
++ URL: http://ieeextreme.org/
+
 ### 2018-10-19 IEEEXtreme 12.0
 + length: 24 hours
 + team: myself, [Branko Bajcetic](https://github.com/bbajcetic), [Richard Godard](https://github.com/vincentrg)
